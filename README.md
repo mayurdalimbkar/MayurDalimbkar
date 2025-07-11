@@ -36,10 +36,9 @@ I specialize in deploying scalable, reliable, and secure systems using modern De
 
 ## 📫 How to reach me?
 
-- 🌐 [Visit my Portfolio Website](#)  
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/mayur-dalimbkar-977855319/)  
-- 🐦 [Follow me on Twitter](#)  
-- 📷 [Follow me on Instagram](#)  
+- 🐦 [Follow me on Twitter](https://x.com/mayurdalimbkar?s=21)
+- 📷 [Follow me on Instagram](https://www.instagram.com/mayur_md.26)
 - 📩 [Shoot me an Email](mailto:mayurdalimbkar26@gmail.com)  
 
 ---
